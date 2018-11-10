@@ -1,5 +1,4 @@
 # Restaurant Review App - Stage 1
----
 
 ## Project Overview: Stage 1
 
@@ -13,7 +12,7 @@ To begin, go ahead and clone the starter code from [this repository](https://git
 
 ### Project is completed by Wen Yu:
 
-The completed project is available [here]. 
+The completed project is available [here](https://github.com/WYCodeBook/mws-restaurant-stage-1). 
 
 ## How to clone the game
 
