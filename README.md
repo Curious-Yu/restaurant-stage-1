@@ -12,7 +12,7 @@ To begin, go ahead and clone the starter code from [this repository](https://git
 
 ### Project is completed by Wen Yu:
 
-The completed project is available [here](https://github.com/WYCodeBook/mws-restaurant-stage-1). 
+The completed project is available [here](https://curious-yu.github.io/restaurant-stage-1/). 
 
 ## How to clone the game
 
